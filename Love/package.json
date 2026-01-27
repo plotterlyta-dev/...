@@ -1,0 +1,13 @@
+{
+  "name": "valentine-proposal",
+  "version": "1.0.0",
+  "description": "An interactive Valentine's Day proposal website",
+  "scripts": {
+    "build": "echo 'Building static site...'"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "license": "MIT"
+}
